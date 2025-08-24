@@ -1,2 +1,2 @@
-# packet_captures
-My packet captures
+# Packet captures
+My packet captures collection for educational purposes
